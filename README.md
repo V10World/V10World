@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V10World
+- 👋 Hi, I’m V10
 - 👀 I’m interested in music & cs
 - 🌱 I’m currently learning the *juce framework*
 
